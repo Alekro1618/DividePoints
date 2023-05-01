@@ -1,3 +1,5 @@
 # DividePoints
 a C# project based on WPF technology
-![alt text](https://github.com/MathLover314/DividePoints/image.jpg?raw=true)
+# Clusterization
+![Alt text](image.jpg)
+project uses cluster algorithm to divide 2 sets of points via different metrics
