@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DividePoints": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
